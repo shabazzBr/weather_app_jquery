@@ -14,7 +14,7 @@
   <li>Javascript </li>
   <li>Jquery </li>
   <li>API de geolocalização accuweather </li>
-  
+  <li>API de previsão do tempo accuweather  </li>
 </ul>
 
 
